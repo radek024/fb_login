@@ -1,0 +1,152 @@
+body
+{
+background-image:url("img/bck2.jpg");
+background-position: center;
+font-family: 'Lato', sans-serif;
+}
+
+a
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
+}
+
+a:hover
+{
+	text-decoration:underline;
+}
+
+#container
+{
+  width:1200px;
+  min-height:720px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+}
+
+#leftside
+{
+  width:470px;
+  height: 580px;
+  margin: 70px 20px 70px 110px;
+  float: left;
+}
+
+#rightside
+{
+  width:470px;
+  height: 580px;
+  margin: 70px 100px 70px 20px;
+  float: left;
+}
+
+#entry
+{
+  width: 462px;
+  height: 236px;
+  font-size: 74px;
+  color:#fff;
+  margin:4px;
+  text-align: right;
+  font-weight: bold;
+}
+
+#log
+{
+  width: 462px;
+  height: 344px;
+  font-size: 14px;
+  color:#fff;
+  margin:4px;
+  background-color: #3b5998;
+}
+
+#login
+{
+  width: 382px;
+  height: 57px;
+  margin: 100px 40px 0px 40px;
+  float: left;
+}
+
+#haslo
+{
+  float: left;
+  width: 382px;
+  height: 57px;
+  margin: 0px 40px 10px 40px;
+}
+
+.logon
+{
+  width: 380px;
+  height: 30px;
+  margin-bottom: 20px;
+  color:gray;
+}
+
+.sumbit
+{
+  margin:0 0 0 80px;
+  float: left;
+  width: 90px;
+  height: 40px;
+}
+
+.dontlogoff
+{
+	float: left;
+	width: 200px;
+	height: 40px;
+}
+
+#zalogowany
+{
+	width: 370px;
+	height:80px;
+	margin: 80px 6px 0px 6px;
+	text-align: center;
+}
+
+#uno
+{
+  background-image: url("img/f1.jpg");
+  width: 235px;
+  height: 340px;
+  float: left;
+  background-position: center;
+}
+
+#duo
+{
+  background-image: url("img/f2.jpg");
+  width: 235px;
+  height: 240px;
+  background-position: center;
+}
+
+#trio
+{
+  background-image: url("img/f3.jpg");
+  width: 235px;
+  height: 240px;
+  background-position: center;
+}
+
+#quatro
+{
+  background-image: url("img/f4.jpg");
+  width: 235px;
+  height: 340px;
+  float: left;
+  background-position: center;
+}
+
+.polka
+{
+  width:235px;
+  height: 580px;
+  float: left;
+}
